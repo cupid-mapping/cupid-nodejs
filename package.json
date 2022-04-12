@@ -1,0 +1,9 @@
+{
+  "name": "cupid",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "basic-readme-generator": "^1.0.6",
+    "form-data": "^4.0.0"
+  }
+}
