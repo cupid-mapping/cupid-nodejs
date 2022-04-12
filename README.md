@@ -18,7 +18,7 @@ Performing mapping through the Cupid API is very straightforward. You'll first u
 ## Installation
 Requires at least Node.js 12.20.0.
 ```sh
-npm i cupid-node --save
+npm i cupid --save
 ```
 ## Methods
 
