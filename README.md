@@ -103,6 +103,7 @@ console.log(err); // Error handler
 This function allows you to send a list of properties and maps it against your active inventory. You will get the resulting mappings in the response.
 
 **Limit**
+<br>
 You can send up to 1000 properties per request.
 ```js
 var  Cupid = require('cupid');
