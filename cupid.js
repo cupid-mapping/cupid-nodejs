@@ -4,7 +4,7 @@ const FormData = require('form-data');
 const fs = require('fs');
 
 const apiURL = "https://api.cupid.travel/api"
-//const apiURL = "http://localhost:5000/api"
+
 class Cupid {
     constructor(apiKey) {
       this.apiKey = apiKey;
