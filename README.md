@@ -22,7 +22,6 @@ npm i cupid --save
 ```
 ## Methods
 
-NOTE: The documentation below is up-to-date with `3.x` releases, if you are using an older version, please check how to [upgrade](#upgrading).
 
 ### uploadInventory
 This function can be used to upload an inventory with a provided CSV file.  
@@ -130,5 +129,5 @@ console.log(err); // Error handler
 ```
 
 ## Contact
-- [Cupid](https://github.com/cupid-mapping/cupid-php)
+- [Cupid](https://cupid.travel)
 - [support@cupid.travel](mailto:support@cupid.travel)
